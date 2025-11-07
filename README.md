@@ -1,3 +1,6 @@
+![Screenshot](screenshot.png)
+
+
 # OpenCore EFI Configuration
 
 > ⭐ **If this EFI helps you, please give this repository a star!**
@@ -193,4 +196,5 @@ Cấu hình này đã được kiểm tra và xác nhận hoạt động trên:
 ## Tuyên bố miễn trừ trách nhiệm
 
 Cấu hình EFI này được cung cấp như hiện tại. Sử dụng có rủi ro của riêng bạn. Hãy đảm bảo sao lưu thư mục EFI gốc của bạn trước khi sử dụng cấu hình này.
+
 
