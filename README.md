@@ -1,5 +1,7 @@
-![Screenshot](screenshot.png)
-
+<p align="center">
+  <img src="screenshot_sequoia.png" alt="Sequoia" width="45%" />
+  <img src="screenshot_tahoe.png" alt="Tahoe" width="45%" />
+</p>
 
 # OpenCore EFI Configuration
 
@@ -63,6 +65,7 @@ This repository contains an OpenCore EFI configuration for a Hackintosh setup.
 This configuration has been tested and confirmed working on:
 - macOS Monterey
 - macOS Sequoia
+- macOS Tahoe
 
 ## Kexts Included
 
@@ -162,6 +165,7 @@ Repository này chứa cấu hình OpenCore EFI cho thiết lập Hackintosh.
 Cấu hình này đã được kiểm tra và xác nhận hoạt động trên:
 - macOS Monterey
 - macOS Sequoia
+- macOS Tahoe
 
 ## Kexts được bao gồm
 
